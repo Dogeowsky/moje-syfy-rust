@@ -1,12 +1,9 @@
 use std::io;
-// use winconsole::console;
 
 fn main() {
 
     // & - ampersant
     // * - asterisk
-
-    // console::set_title("Kalkubulator - kalkulator prymitywny").unwrap();
 
     println!("Kalkulator prymitywny - można wykonywać: dodawanie(+), odejmowanie(-), mnożenie(*), dzielenie(/), wyliczać reszte(%), potęgowanie(^) oraz pierwiastkowanie(v) na 2-ch wartościach 64-bitowych.");
     println!("!! W przypadku potęgowania i pierwiastkowania druga wartość jest stopniem potęgi/pierwiastka. !!");
