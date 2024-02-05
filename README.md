@@ -11,7 +11,7 @@ Aby skompilować którykolwiek z plików `.rs` potrzebujesz `Cargo`:
 1. Tworzenie nowej paczki
     - `cargo new <nazwa>`
     - `cd <nazwa>`
-    - Następnie należy podmienić plik `main.rs` w paczce z plikiem z repozytorium, przykładowo: `mv ~/kalkubulator.rs ~/kalkubulator/src/main.rs~`
+    - Następnie należy podmienić plik `main.rs` w paczce z plikiem z repozytorium, przykładowo: `mv ~/Downloads/kalkubulator.rs ~/kalkubulator/src/main.rs~`
 
 1. Kompilowanie paczki
     - `cargo build` (kompilacja pod debug) lub `cargo build --release` (kompilacja pod wydanie, bardziej zoptymalizowana)
