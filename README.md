@@ -19,4 +19,6 @@ Aby skompilować którykolwiek z plików `.rs` potrzebujesz `Cargo`:
 
 ### UWAGA: Windows Defender może nie pozwolić na otworzenie i wykonanie skompilowanych plików `.exe` ze względu na brak podpisu autora.
 
+### Później dodam wydania dla Windowsa oraz Linuxa
+
 
