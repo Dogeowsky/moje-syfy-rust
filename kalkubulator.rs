@@ -63,7 +63,7 @@ fn main() {
             "^" => out = a.powf(b),
             "v" | "V" => {
                 if a < 0.0 {
-                    println!("\n// NIE można pierwiastkować liczb ujemnych! (Poniżej wynik przy użyciu wartości bezwględnej: \n")
+                    println!("\n// NIE można pierwiastkować liczb ujemnych! (Poniżej wynik przy użyciu wartości bezwględnej):\n")
                 }
                 out = f64::powf(a.abs(), 1.0 / b)
             },
